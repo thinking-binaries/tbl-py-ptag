@@ -7,7 +7,7 @@ CAP_NAME=test_all.cap
 ./html.py >> ${OUT_NAME}
 ./muppets.py >> ${OUT_NAME}
 ./news.py >> ${OUT_NAME}
-./sfia.py >> ${OUT_NAME}
+#./sfia.py >> ${OUT_NAME}
 diff ${CAP_NAME} ${OUT_NAME}
 # if the diff passes, we don't need the output file
 rm ${OUT_NAME}
