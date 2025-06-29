@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">  
+  <channel> 
+    <title>BBC News - Technology</title>  
+    <link>http://www.bbc.co.uk/news/technology/#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+    <description>The latest stories from the Technology section of the BBC News web site.</description>  
+    <language>en-gb</language>  
+    <lastBuildDate>Tue, 22 Apr 2014 17:12:35 GMT</lastBuildDate>  
+    <copyright>Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.</copyright>  
+    <image> 
+      <url>http://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>  
+      <title>BBC News - Technology</title>  
+      <link>http://www.bbc.co.uk/news/technology/#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <width>120</width>  
+      <height>60</height> 
+    </image>  
+    <ttl>15</ttl>  
+    <atom:link href="http://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>  
+    <item> 
+      <title>Google refunding buyers of fake app</title>  
+      <description>Google is refunding people who bought a fake anti-virus app through its Google Play store.</description>  
+      <link>http://www.bbc.co.uk/news/technology-27118689#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-27118689</guid>  
+      <pubDate>Tue, 22 Apr 2014 17:09:06 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/74381000/jpg/_74381006_virussheild.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/74381000/jpg/_74381037_virussheild.jpg"/> 
+    </item>  
+    <item> 
+      <title>Russian social network founder fired</title>  
+      <description>The founder of Russian social network VKontakte says he has been fired and that his site has been taken over by allies of President Putin.</description>  
+      <link>http://www.bbc.co.uk/news/technology-27113292#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-27113292</guid>  
+      <pubDate>Tue, 22 Apr 2014 15:46:46 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/74377000/jpg/_74377040_74372456.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/74377000/jpg/_74377041_74372456.jpg"/> 
+    </item>  
+    <item> 
+      <title>Airbnb in court over housing laws</title>  
+      <description>Airbnb, the website that lets people rent their homes to holidaymakers, is to appear at the Supreme Court in New York.</description>  
+      <link>http://www.bbc.co.uk/news/technology-27110660#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-27110660</guid>  
+      <pubDate>Tue, 22 Apr 2014 11:25:07 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/74369000/jpg/_74369490_74369312.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/74369000/jpg/_74369491_74369312.jpg"/> 
+    </item>  
+    <item> 
+      <title>'World's fastest' lift to be built</title>  
+      <description>Hitachi says it will install a lift capable of reaching speeds of 72km/h (45mph) into a skyscraper in Guangzhou, southern China.</description>  
+      <link>http://www.bbc.co.uk/news/technology-27111923#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-27111923</guid>  
+      <pubDate>Tue, 22 Apr 2014 12:50:46 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/74370000/jpg/_74370296_74368203.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/74370000/jpg/_74370297_74368203.jpg"/> 
+    </item>  
+    <item> 
+      <title>Reddit revolt over censored posts</title>  
+      <description>Reddit downgrades the status of its technology section after it emerges that many popular terms had been banned from its headlines.</description>  
+      <link>http://www.bbc.co.uk/news/technology-27100773#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-27100773</guid>  
+      <pubDate>Mon, 21 Apr 2014 14:59:49 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/74353000/png/_74353865_rededi.png"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/74353000/png/_74353866_rededi.png"/> 
+    </item>  
+    <item> 
+      <title>UK scares sports piracy site offline</title>  
+      <description>One of the biggest sports file-sharing sites closes down after a UK police force warns its operators that they could face jail.</description>  
+      <link>http://www.bbc.co.uk/news/technology-27103527#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-27103527</guid>  
+      <pubDate>Mon, 21 Apr 2014 14:51:52 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/74355000/jpg/_74355414_74353875.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/74355000/jpg/_74355415_74353875.jpg"/> 
+    </item>  
+    <item> 
+      <title>Netflix reports rise in profits</title>  
+      <description>Internet streaming video service Netflix reports profits of $53m during the first quarter, and says it will soon increase subscription prices.</description>  
+      <link>http://www.bbc.co.uk/news/business-27106460#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/business-27106460</guid>  
+      <pubDate>Mon, 21 Apr 2014 21:08:19 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/74360000/jpg/_74360727_464384005.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/74360000/jpg/_74360728_464384005.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: Aircraft factory's technology role</title>  
+      <description>The East Yorkshire aircraft factory which used to make Hawk trainer jets is now developing high technology projects.</description>  
+      <link>http://www.bbc.co.uk/news/uk-england-humber-27117341#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-england-humber-27117341</guid>  
+      <pubDate>Tue, 22 Apr 2014 16:25:57 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/74377000/jpg/_74377538_bae1.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/74377000/jpg/_74377539_bae1.jpg"/> 
+    </item>  
+    <item> 
+      <title>Facebook boss wants women to act</title>  
+      <description>Facebook's highest-ranked woman says women need to take action to create a more equal world.</description>  
+      <link>http://www.bbc.co.uk/news/business-27107946#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/business-27107946</guid>  
+      <pubDate>Tue, 22 Apr 2014 06:58:38 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/74363000/jpg/_74363553_74363430.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/74363000/jpg/_74363554_74363430.jpg"/> 
+    </item>  
+    <item> 
+      <title>Whedon releases new film on demand</title>  
+      <description>Avengers director Joss Whedon surprises fans by releasing his latest film online on the same night as its US premiere.</description>  
+      <link>http://www.bbc.co.uk/news/entertainment-arts-27102294#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/entertainment-arts-27102294</guid>  
+      <pubDate>Mon, 21 Apr 2014 11:24:18 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/74353000/jpg/_74353349_813ca2d8-9149-4f5f-97d7-07f2ccb2fb7f.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/74353000/jpg/_74353350_813ca2d8-9149-4f5f-97d7-07f2ccb2fb7f.jpg"/> 
+    </item>  
+    <item> 
+      <title>SpaceX launches station cargo flight</title>  
+      <description>US company SpaceX launches its latest re-supply mission to the International Space Station, sending up a Dragon freighter to rendezvous with the orbiting platform on Sunday.</description>  
+      <link>http://www.bbc.co.uk/news/science-environment-27027200#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/science-environment-27027200</guid>  
+      <pubDate>Fri, 18 Apr 2014 22:06:02 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/74327000/jpg/_74327602_launch.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/74327000/jpg/_74327603_launch.jpg"/> 
+    </item>  
+    <item> 
+      <title>German media boss criticises Google</title>  
+      <description>In an open letter to Google's Eric Schmidt the boss of German publishing firm Axel Springer says it is afraid of the search giant.</description>  
+      <link>http://www.bbc.co.uk/news/technology-27063372#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-27063372</guid>  
+      <pubDate>Thu, 17 Apr 2014 13:20:24 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/74297000/jpg/_74297899_74297892.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/74297000/jpg/_74297900_74297892.jpg"/> 
+    </item>  
+    <item> 
+      <title>Teachers angry at online insults</title>  
+      <description>Online social media is being misused to insult, intimidate and smear staff in schools, says a teachers' union.</description>  
+      <link>http://www.bbc.co.uk/news/education-27094931#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/education-27094931</guid>  
+      <pubDate>Mon, 21 Apr 2014 15:30:34 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/74343000/jpg/_74343012_461971943.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/74343000/jpg/_74343013_461971943.jpg"/> 
+    </item>  
+    <item> 
+      <title>HMRC 'plans to share personal data'</title>  
+      <description>Taxpayers' personal financial data could be shared with private firms and researchers, Revenue &amp; Customs says, despite concerns over privacy and security.</description>  
+      <link>http://www.bbc.co.uk/news/uk-27086401#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-27086401</guid>  
+      <pubDate>Sat, 19 Apr 2014 07:50:05 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/74328000/jpg/_74328957_74328950.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/74329000/jpg/_74329149_74328950.jpg"/> 
+    </item>  
+    <item> 
+      <title>Kim Dotcom wins back cars and cash</title>  
+      <description>Kim Dotcom, the multimillionaire founder of closed file-sharing site Megaupload, has won back cars, cash and property seized in a January 2012 raid.</description>  
+      <link>http://www.bbc.co.uk/news/technology-27067102#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-27067102</guid>  
+      <pubDate>Thu, 17 Apr 2014 12:11:17 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/74297000/jpg/_74297220_167513895.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/74297000/jpg/_74297221_167513895.jpg"/> 
+    </item>  
+    <item> 
+      <title>BBC and Sky experience fault on iOS</title>  
+      <description>The BBC and Sky's video-on-demand apps simultaneously experience a fault on iPhones and iPads that prevents TV shows from streaming.</description>  
+      <link>http://www.bbc.co.uk/news/technology-27062516#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-27062516</guid>  
+      <pubDate>Mon, 21 Apr 2014 07:05:39 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/74294000/jpg/_74294398_bbc.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/74294000/jpg/_74294399_bbc.jpg"/> 
+    </item>  
+    <item> 
+      <title>Cyborg glasses express fake emotions</title>  
+      <description>A Japanese researcher creates glasses that show computer-generated eyes that express emotions so that the wearer does not need to bother.</description>  
+      <link>http://www.bbc.co.uk/news/technology-27052773#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-27052773</guid>  
+      <pubDate>Wed, 16 Apr 2014 23:00:27 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/74285000/jpg/_74285219_hands.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/74285000/jpg/_74285220_hands.jpg"/> 
+    </item>  
+    <item> 
+      <title>Graphene 'made with kitchen blender'</title>  
+      <description>Scientists have outlined how they managed to make the wonder material graphene using a kitchen blender.</description>  
+      <link>http://www.bbc.co.uk/news/science-environment-27113732#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/science-environment-27113732</guid>  
+      <pubDate>Tue, 22 Apr 2014 13:03:27 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/74372000/jpg/_74372942_c0205666-graphene_structure%2C_artwork-spl.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/74372000/jpg/_74372943_c0205666-graphene_structure%2C_artwork-spl.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: Searching for metaphorical results</title>  
+      <description>How alternative search engines produce different results plus websites and apps reviewed.</description>  
+      <link>http://www.bbc.co.uk/news/technology-27055928#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-27055928</guid>  
+      <pubDate>Thu, 17 Apr 2014 16:22:23 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/74281000/jpg/_74281364_yossarianlives1024.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/74281000/jpg/_74281365_yossarianlives1024.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: Firm creates drone fitted with Taser</title>  
+      <description>Spencer Kelly meets the team behind a drone which can fire 80,000 volts of electricity through a wired dart.</description>  
+      <link>http://www.bbc.co.uk/news/technology-26930644#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-26930644</guid>  
+      <pubDate>Wed, 09 Apr 2014 07:06:57 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/74093000/jpg/_74093267_drone1024.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/74093000/jpg/_74093268_drone1024.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: Robot chefs take over restaurant</title>  
+      <description>A restaurant in China has started serving food that's been prepared by robots.</description>  
+      <link>http://www.bbc.co.uk/news/world-asia-china-27107248#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-asia-china-27107248</guid>  
+      <pubDate>Tue, 22 Apr 2014 02:43:09 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/74362000/jpg/_74362014_74361942.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/74362000/jpg/_74362015_74361942.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: Autistic workers get chance to shine</title>  
+      <description>Autistic people have historically struggled to find and keep jobs, but with as many as one in 68 American children being diagnosed with an autism spectrum disorder. The Specialists Guild, a non-profit group in San Francisco, is working to prepare people with autism for jobs in the technology industry.</description>  
+      <link>http://www.bbc.co.uk/news/world-us-canada-27104424#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-us-canada-27104424</guid>  
+      <pubDate>Tue, 22 Apr 2014 00:24:27 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/74373000/jpg/_74373812_photo-45.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/74373000/jpg/_74373813_photo-45.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: Is this India's first social media election?</title>  
+      <description>Indian elections are under way, and most parties are using the internet to try and woo voters. Is this India's first social media election?</description>  
+      <link>http://www.bbc.co.uk/news/world-asia-india-27071776#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-asia-india-27071776</guid>  
+      <pubDate>Sun, 20 Apr 2014 21:57:44 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/74312000/jpg/_74312870_74312838.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/74312000/jpg/_74312923_74312838.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: Facebook targets small business</title>  
+      <description>Chief operating officer of Facebook Sheryl Sandberg has been speaking to business executives from the UK and Ireland in Dublin.</description>  
+      <link>http://www.bbc.co.uk/news/business-27108483#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/business-27108483</guid>  
+      <pubDate>Tue, 22 Apr 2014 08:55:32 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/74364000/jpg/_74364346_74364339.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/74364000/jpg/_74364347_74364339.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: Turning the world into an orchestra</title>  
+      <description>Spencer Kelly tests out Mogees- a device linked to your smartphone which turns objects into musical instruments.</description>  
+      <link>http://www.bbc.co.uk/news/technology-27066962#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-27066962</guid>  
+      <pubDate>Thu, 17 Apr 2014 15:23:50 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/74301000/jpg/_74301608_mogees2_1024.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/74301000/jpg/_74301609_mogees2_1024.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: Netflix dominates streaming market</title>  
+      <description>Netflix now accounts for more than half the video streamed over the internet.</description>  
+      <link>http://www.bbc.co.uk/news/business-27102420#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/business-27102420</guid>  
+      <pubDate>Mon, 21 Apr 2014 10:55:31 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/74353000/jpg/_74353100_74353092.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/74353000/jpg/_74353101_74353092.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: The quest to perfect digital pianos</title>  
+      <description>Click meets Joe Ierardi, a man who is trying to create the most realistic sounding piano synthesiser.</description>  
+      <link>http://www.bbc.co.uk/news/technology-27062526#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-27062526</guid>  
+      <pubDate>Thu, 17 Apr 2014 14:49:36 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/74293000/jpg/_74293027_piano1024.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/74293000/jpg/_74293028_piano1024.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: Cyborg glasses mimic eye gestures</title>  
+      <description>A Japanese researcher shows off glasses that display computer-generated eyes, which express emotions to save their wearer the effort.</description>  
+      <link>http://www.bbc.co.uk/news/technology-27052604#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-27052604</guid>  
+      <pubDate>Wed, 16 Apr 2014 22:58:26 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/74285000/jpg/_74285231_goggles.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/74285000/jpg/_74285232_goggles.jpg"/> 
+    </item>  
+    <item> 
+      <title>Back to the future with Isaac Asimov</title>  
+      <description>What 2014 looked like 50 years ago</description>  
+      <link>http://www.bbc.co.uk/news/technology-27069716#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-27069716</guid>  
+      <pubDate>Mon, 21 Apr 2014 23:13:48 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/74360000/jpg/_74360228_tv020648385.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/74360000/jpg/_74360229_tv020648385.jpg"/> 
+    </item>  
+    <item> 
+      <title>10 strange things on Taobao</title>  
+      <description>Ten strange things found on China's online marketplace</description>  
+      <link>http://www.bbc.co.uk/news/world-asia-26185600#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-asia-26185600</guid>  
+      <pubDate>Tue, 22 Apr 2014 00:18:24 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/74254000/jpg/_74254531_kissing_getty.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/74254000/jpg/_74254532_kissing_getty.jpg"/> 
+    </item>  
+    <item> 
+      <title>Big risk for small firms losing data</title>  
+      <description>Guarding against bugs, hackers and natural disasters</description>  
+      <link>http://www.bbc.co.uk/news/business-27052250#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/business-27052250</guid>  
+      <pubDate>Mon, 21 Apr 2014 23:24:49 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/74289000/jpg/_74289090_187404425.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/74289000/jpg/_74289091_187404425.jpg"/> 
+    </item>  
+    <item> 
+      <title>Netflix battles for big budget TV</title>  
+      <description>The battle for exclusive online TV shows</description>  
+      <link>http://www.bbc.co.uk/news/technology-27037504#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-27037504</guid>  
+      <pubDate>Sun, 20 Apr 2014 23:23:25 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/74314000/jpg/_74314760_space.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/74314000/jpg/_74314761_space.jpg"/> 
+    </item>  
+    <item> 
+      <title>In pictures: Beijing Auto Show</title>  
+      <description>The world's top carmakers at the Beijing Auto Show</description>  
+      <link>http://www.bbc.co.uk/news/business-27100048#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/business-27100048</guid>  
+      <pubDate>Mon, 21 Apr 2014 07:36:37 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/74350000/jpg/_74350833_485598037.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/74350000/jpg/_74350834_485598037.jpg"/> 
+    </item>  
+    <item> 
+      <title>Where Wall Street met Silicon Valley</title>  
+      <description>Two cultures collide at the online retail giant</description>  
+      <link>http://www.bbc.co.uk/news/business-27055407#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/business-27055407</guid>  
+      <pubDate>Sun, 20 Apr 2014 23:12:24 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/74282000/jpg/_74282776_amazonlogoafp.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/74282000/jpg/_74282797_amazonlogoafp.jpg"/> 
+    </item>  
+    <item> 
+      <title>Hacking the instrument of the future</title>  
+      <description>Sleep-deprived coders enjoy an epic adventure</description>  
+      <link>http://www.bbc.co.uk/news/technology-27067106#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-27067106</guid>  
+      <pubDate>Sat, 19 Apr 2014 23:22:37 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/74314000/jpg/_74314773_74297229.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/74314000/jpg/_74314774_74297229.jpg"/> 
+    </item>  
+    <item> 
+      <title>Selling globally is child's play</title>  
+      <description>The tech making e-commerce easier for small firms</description>  
+      <link>http://www.bbc.co.uk/news/business-26986083#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/business-26986083</guid>  
+      <pubDate>Thu, 17 Apr 2014 23:09:09 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/74272000/png/_74272265_image.png"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/74272000/png/_74272266_image.png"/> 
+    </item> 
+  </channel> 
+</rss>

@@ -1,0 +1,1202 @@
+/
+/html
+/html/head
+/html/head/title
+/html/head/title/
+/html/head/title~
+/html/head~
+/html/body
+/html/body/h1
+/html/body/h1/
+/html/body/h1~
+/html/body/
+/html/body/a
+/html/body/a/href
+/html/body/a/
+/html/body/a~
+/html/body~
+/html~
+/~
+"210" "Spaces" 472 356 75 "Wilkinson Street Park and Ride" 341968.00 455364.00 
+"211" "Spaces" 119 92 77 "Moor Bridge Park and Ride" 346635.00 454598.00 
+"212" "Almost Full" 476 420 88 "Hucknall Park and Ride" 349208.00 454031.00 
+"911" "Spaces" 250 138 55 "Huntingdon Street" 340470.00 457583.00 
+"Am2-1" "Spaces" 430 327 76 "Trinity Square" 340304.00 457222.00 
+"Am3-2" "Spaces" 526 313 59 "Fletcher Gate" 339775.00 457485.00 
+"BRDMSH" "Spaces" 1136 1020 89 "Broadmarsh" 339484.00 457417.00 
+"C11001" "Spaces" 412 249 60 "Arndale" 339408.00 457173.00 
+"C11002" "Spaces" 427 179 41 "Mount Street" 339867.00 456885.00 
+"C11003" "Spaces" 405 0 0 "Queensbridge Road" 339089.00 457354.00 
+"C11004" "Spaces" 475 253 53 "St. James' Street" 339705.00 456938.00 
+"C11005" "Almost Full" 289 248 85 "Stoney Street" 339788.00 457654.00 
+"C11006" "Spaces" 512 170 33 "Newark: St. Mark's Place" 0.00 0.00 
+"C12002" "Almost Full" 77 65 84 "Mount St Lower" 0.00 0.00 
+"C18418" "Faulty" 998 0 0 "QUEENS DR P&R" 376885.00 478373.00 
+"CPM_22" "Spaces" 949 0 0 "Nottingham Station" 339121.00 457546.00 
+"FRSTPR" "Faulty" 980 687 70 "Forest Park and Ride" 341296.00 456156.00 
+"PHNXPR" "Spaces" 659 496 75 "Phoenix Park and Ride" 343774.00 453311.00 
+"PRLMNT" "Spaces" 221 163 73 "Upper Parliament Street" 340048.00 457047.00 
+"QNSPR" "Spaces" 1000 668 66 "Queens Drive Park and Ride" 337308.00 456353.00 
+"RYLCT" "Spaces" 629 60 9 "Wollaton Street" 340147.00 456879.00 
+"SB1-1" "Spaces" 439 123 28 "Talbot Street" 340232.00 456865.00 
+"TLBTST" "Spaces" 444 0 0 "Talbot Street OLD" 0.00 0.00 
+"WPS$1230" "Spaces" 1606 916 57 "Victoria Centre South" 340218.00 457468.00 
+"WPS$1231" "Spaces" 1011 462 45 "Victoria Centre North" 340508.00 457413.00 
+target1.txt
+target2.txt
+title:page title
+heading:main page
+href:target1.txt
+href:target2.txt
+# table: MY_DATA
+# headings: ['ONE', 'TWO']
+['row1_col1', 'row1_col2']
+['row2_col1', 'row2_col2']
+name_popular nm0001345 "Jim Henson & The Muppets" "Writer, Sesame Street" 
+name_popular nm0165159 "The Muppets" "Actor, The Adventures of Elmo in Grouchland" 
+name_popular nm0000568 "The Muppets" "Actor, Star Wars: Episode V - The Empire Strikes Back" 
+name_popular nm0625456 "The Muppets" "Actor, The Muppet Movie" 
+name_popular nm0324397 "The Muppets" "Actor, The Muppet Christmas Carol" 
+name_popular nm0402611 "The Muppets" "Actor, The Muppet Movie" 
+title_popular tt1204342 "The Muppets" "(none)" 
+title_popular tt2281587 "The Muppets 2" "(none)" 
+title_popular tt0087755 "The Muppets Take Manhattan" "(none)" 
+name_exact nm0926209 "The Muppets" "Actor, The Muppets" 
+name_exact nm0748843 "The Muppets" "Actor, The Muppets" 
+name_exact nm1596332 "The Muppets" "Soundtrack, The Muppets" 
+name_substring nm3766090 "The Nostalgia Plothole of Muppets Past" "Writer, Kickassia" 
+title_substring tt0422778 "The Muppets' Wizard of Oz" "(none)" 
+title_substring tt0194989 "John Denver and the Muppets: A Christmas Together" "(none)" 
+title_substring tt0251874 "The Muppets Celebrate Jim Henson" "(none)" 
+title_substring tt0329401 "The Muppets Go Hollywood" "(none)" 
+title_substring tt0395739 "Rocky Mountain Holiday with John Denver and the Muppets" "(none)" 
+title_substring tt3268828 "Lady Gaga & the Muppets' Holiday Spectacular" "(none)" 
+title_substring tt0244084 "The Muppets at Walt Disney World" "(none)" 
+title_substring tt0323321 "The Muppets: A Celebration of 30 Years" "(none)" 
+title_substring tt0454508 "The Muppets Valentine Show" "(none)" 
+title_substring tt0305850 "Muppet Video: Rowlf's Rhapsodies with the Muppets" "(none)" 
+title_substring tt0329444 "Of Muppets and Men: The Making of 'The Muppet Show'" "(none)" 
+title_substring tt2080396 "The Muppets: Bohemian Rhapsody" "(none)" 
+title_substring tt0344086 "The Muppets Go to the Movies" "(none)" 
+title_substring tt0485453 "Childrens Songs and Stories with the Muppets" "(none)" 
+title_substring tt0430267 "Kermit & the Muppets Take Over Disney Channel" "(none)" 
+title_substring tt0430380 "Muppets Magic from 'The Ed Sullivan Show'" "(none)" 
+title_substring tt0485471 "Muppet Video: Country Music with the Muppets" "(none)" 
+title_substring tt0472225 "Muppet Video: Rock Music with the Muppets" "(none)" 
+title_substring tt0206161 "The Muppet CDROM: Muppets Inside" "(none)" 
+title_substring tt2546008 "The Muppets All-Star Comedy Gala" "(none)" 
+title_substring tt2198237 "The Muppets on Puppets" "(none)" 
+title_substring tt1223883 "The Muppets on 'The Muppets'" "(none)" 
+title_substring tt0430266 "Kermit & the Muppets Behind the Ears Disney Channel Preview" "(none)" 
+title_substring tt1545314 "Muppets History 201: More Rarities from the Henson Vault" "(none)" 
+title_substring tt3169480 "Muppets at the Museum of the Moving Image" "(none)" 
+title_substring tt2452944 "The Making of 'The Muppets Take Manhattan'" "(none)" 
+title_substring tt1869734 "The Muppets Kitchen with Cat Cora" "(none)" 
+title_substring tt2290741 "The One Where They Turn Into Muppets" "(none)" 
+title_substring tt2040582 "VEVO News: On the Set with OK Go and The Muppets" "(none)" 
+company_substring co0190672 "Muppets Holding Company, The" "(none)" 
+INSERT INTO muppets(
+type,
+id,
+entity,
+description
+)
+VALUES
+(
+'name_popular',
+'nm0001345',
+'Jim Henson & The Muppets',
+'Writer, Sesame Street'
+);
+
+
+INSERT INTO muppets(
+type,
+id,
+entity,
+description
+)
+VALUES
+(
+'name_popular',
+'nm0165159',
+'The Muppets',
+'Actor, The Adventures of Elmo in Grouchland'
+);
+
+
+INSERT INTO muppets(
+type,
+id,
+entity,
+description
+)
+VALUES
+(
+'name_popular',
+'nm0000568',
+'The Muppets',
+'Actor, Star Wars: Episode V - The Empire Strikes Back'
+);
+
+
+INSERT INTO muppets(
+type,
+id,
+entity,
+description
+)
+VALUES
+(
+'name_popular',
+'nm0625456',
+'The Muppets',
+'Actor, The Muppet Movie'
+);
+
+
+INSERT INTO muppets(
+type,
+id,
+entity,
+description
+)
+VALUES
+(
+'name_popular',
+'nm0324397',
+'The Muppets',
+'Actor, The Muppet Christmas Carol'
+);
+
+
+INSERT INTO muppets(
+type,
+id,
+entity,
+description
+)
+VALUES
+(
+'name_popular',
+'nm0402611',
+'The Muppets',
+'Actor, The Muppet Movie'
+);
+
+
+INSERT INTO muppets(
+type,
+id,
+entity
+)
+VALUES
+(
+'title_popular',
+'tt1204342',
+'The Muppets'
+);
+
+
+INSERT INTO muppets(
+type,
+id,
+entity
+)
+VALUES
+(
+'title_popular',
+'tt2281587',
+'The Muppets 2'
+);
+
+
+INSERT INTO muppets(
+type,
+id,
+entity
+)
+VALUES
+(
+'title_popular',
+'tt0087755',
+'The Muppets Take Manhattan'
+);
+
+
+INSERT INTO muppets(
+type,
+id,
+entity,
+description
+)
+VALUES
+(
+'name_exact',
+'nm0926209',
+'The Muppets',
+'Actor, The Muppets'
+);
+
+
+INSERT INTO muppets(
+type,
+id,
+entity,
+description
+)
+VALUES
+(
+'name_exact',
+'nm0748843',
+'The Muppets',
+'Actor, The Muppets'
+);
+
+
+INSERT INTO muppets(
+type,
+id,
+entity,
+description
+)
+VALUES
+(
+'name_exact',
+'nm1596332',
+'The Muppets',
+'Soundtrack, The Muppets'
+);
+
+
+INSERT INTO muppets(
+type,
+id,
+entity,
+description
+)
+VALUES
+(
+'name_substring',
+'nm3766090',
+'The Nostalgia Plothole of Muppets Past',
+'Writer, Kickassia'
+);
+
+
+INSERT INTO muppets(
+type,
+id,
+entity
+)
+VALUES
+(
+'title_substring',
+'tt0422778',
+'The Muppets\' Wizard of Oz'
+);
+
+
+INSERT INTO muppets(
+type,
+id,
+entity
+)
+VALUES
+(
+'title_substring',
+'tt0194989',
+'John Denver and the Muppets: A Christmas Together'
+);
+
+
+INSERT INTO muppets(
+type,
+id,
+entity
+)
+VALUES
+(
+'title_substring',
+'tt0251874',
+'The Muppets Celebrate Jim Henson'
+);
+
+
+INSERT INTO muppets(
+type,
+id,
+entity
+)
+VALUES
+(
+'title_substring',
+'tt0329401',
+'The Muppets Go Hollywood'
+);
+
+
+INSERT INTO muppets(
+type,
+id,
+entity
+)
+VALUES
+(
+'title_substring',
+'tt0395739',
+'Rocky Mountain Holiday with John Denver and the Muppets'
+);
+
+
+INSERT INTO muppets(
+type,
+id,
+entity
+)
+VALUES
+(
+'title_substring',
+'tt3268828',
+'Lady Gaga & the Muppets\' Holiday Spectacular'
+);
+
+
+INSERT INTO muppets(
+type,
+id,
+entity
+)
+VALUES
+(
+'title_substring',
+'tt0244084',
+'The Muppets at Walt Disney World'
+);
+
+
+INSERT INTO muppets(
+type,
+id,
+entity
+)
+VALUES
+(
+'title_substring',
+'tt0323321',
+'The Muppets: A Celebration of 30 Years'
+);
+
+
+INSERT INTO muppets(
+type,
+id,
+entity
+)
+VALUES
+(
+'title_substring',
+'tt0454508',
+'The Muppets Valentine Show'
+);
+
+
+INSERT INTO muppets(
+type,
+id,
+entity
+)
+VALUES
+(
+'title_substring',
+'tt0305850',
+'Muppet Video: Rowlf\'s Rhapsodies with the Muppets'
+);
+
+
+INSERT INTO muppets(
+type,
+id,
+entity
+)
+VALUES
+(
+'title_substring',
+'tt0329444',
+'Of Muppets and Men: The Making of \'The Muppet Show\''
+);
+
+
+INSERT INTO muppets(
+type,
+id,
+entity
+)
+VALUES
+(
+'title_substring',
+'tt2080396',
+'The Muppets: Bohemian Rhapsody'
+);
+
+
+INSERT INTO muppets(
+type,
+id,
+entity
+)
+VALUES
+(
+'title_substring',
+'tt0344086',
+'The Muppets Go to the Movies'
+);
+
+
+INSERT INTO muppets(
+type,
+id,
+entity
+)
+VALUES
+(
+'title_substring',
+'tt0485453',
+'Childrens Songs and Stories with the Muppets'
+);
+
+
+INSERT INTO muppets(
+type,
+id,
+entity
+)
+VALUES
+(
+'title_substring',
+'tt0430267',
+'Kermit & the Muppets Take Over Disney Channel'
+);
+
+
+INSERT INTO muppets(
+type,
+id,
+entity
+)
+VALUES
+(
+'title_substring',
+'tt0430380',
+'Muppets Magic from \'The Ed Sullivan Show\''
+);
+
+
+INSERT INTO muppets(
+type,
+id,
+entity
+)
+VALUES
+(
+'title_substring',
+'tt0485471',
+'Muppet Video: Country Music with the Muppets'
+);
+
+
+INSERT INTO muppets(
+type,
+id,
+entity
+)
+VALUES
+(
+'title_substring',
+'tt0472225',
+'Muppet Video: Rock Music with the Muppets'
+);
+
+
+INSERT INTO muppets(
+type,
+id,
+entity
+)
+VALUES
+(
+'title_substring',
+'tt0206161',
+'The Muppet CDROM: Muppets Inside'
+);
+
+
+INSERT INTO muppets(
+type,
+id,
+entity
+)
+VALUES
+(
+'title_substring',
+'tt2546008',
+'The Muppets All-Star Comedy Gala'
+);
+
+
+INSERT INTO muppets(
+type,
+id,
+entity
+)
+VALUES
+(
+'title_substring',
+'tt2198237',
+'The Muppets on Puppets'
+);
+
+
+INSERT INTO muppets(
+type,
+id,
+entity
+)
+VALUES
+(
+'title_substring',
+'tt1223883',
+'The Muppets on \'The Muppets\''
+);
+
+
+INSERT INTO muppets(
+type,
+id,
+entity
+)
+VALUES
+(
+'title_substring',
+'tt0430266',
+'Kermit & the Muppets Behind the Ears Disney Channel Preview'
+);
+
+
+INSERT INTO muppets(
+type,
+id,
+entity
+)
+VALUES
+(
+'title_substring',
+'tt1545314',
+'Muppets History 201: More Rarities from the Henson Vault'
+);
+
+
+INSERT INTO muppets(
+type,
+id,
+entity
+)
+VALUES
+(
+'title_substring',
+'tt3169480',
+'Muppets at the Museum of the Moving Image'
+);
+
+
+INSERT INTO muppets(
+type,
+id,
+entity
+)
+VALUES
+(
+'title_substring',
+'tt2452944',
+'The Making of \'The Muppets Take Manhattan\''
+);
+
+
+INSERT INTO muppets(
+type,
+id,
+entity
+)
+VALUES
+(
+'title_substring',
+'tt1869734',
+'The Muppets Kitchen with Cat Cora'
+);
+
+
+INSERT INTO muppets(
+type,
+id,
+entity
+)
+VALUES
+(
+'title_substring',
+'tt2290741',
+'The One Where They Turn Into Muppets'
+);
+
+
+INSERT INTO muppets(
+type,
+id,
+entity
+)
+VALUES
+(
+'title_substring',
+'tt2040582',
+'VEVO News: On the Set with OK Go and The Muppets'
+);
+
+
+INSERT INTO muppets(
+type,
+id,
+entity
+)
+VALUES
+(
+'company_substring',
+'co0190672',
+'Muppets Holding Company, The'
+);
+
+
+title: BBC News - Technology
+link: http://www.bbc.co.uk/news/technology/#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa
+description: The latest stories from the Technology section of the BBC News web site.
+language: en-gb
+lastBuildDate: Tue, 22 Apr 2014 17:12:35 GMT
+copyright: Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.
+url: http://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif
+title: BBC News - Technology
+link: http://www.bbc.co.uk/news/technology/#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa
+width: 120
+height: 60
+ttl: 15
+atom href: http://feeds.bbci.co.uk/news/technology/rss.xml
+atom rel: self
+atom type: application/rss+xml
+item title: Google refunding buyers of fake app
+item desc: Google is refunding people who bought a fake anti-virus app through its Google Play store.
+item link: http://www.bbc.co.uk/news/technology-27118689#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa
+item guid perma: false
+item guid: http://www.bbc.co.uk/news/technology-27118689
+item pubdate: Tue, 22 Apr 2014 17:09:06 GMT
+item tnwidth: 66
+item thheight: 49
+item tnurl: http://news.bbcimg.co.uk/media/images/74381000/jpg/_74381006_virussheild.jpg
+item tnwidth: 144
+item thheight: 81
+item tnurl: http://news.bbcimg.co.uk/media/images/74381000/jpg/_74381037_virussheild.jpg
+
+item title: Russian social network founder fired
+item desc: The founder of Russian social network VKontakte says he has been fired and that his site has been taken over by allies of President Putin.
+item link: http://www.bbc.co.uk/news/technology-27113292#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa
+item guid perma: false
+item guid: http://www.bbc.co.uk/news/technology-27113292
+item pubdate: Tue, 22 Apr 2014 15:46:46 GMT
+item tnwidth: 66
+item thheight: 49
+item tnurl: http://news.bbcimg.co.uk/media/images/74377000/jpg/_74377040_74372456.jpg
+item tnwidth: 144
+item thheight: 81
+item tnurl: http://news.bbcimg.co.uk/media/images/74377000/jpg/_74377041_74372456.jpg
+
+item title: Airbnb in court over housing laws
+item desc: Airbnb, the website that lets people rent their homes to holidaymakers, is to appear at the Supreme Court in New York.
+item link: http://www.bbc.co.uk/news/technology-27110660#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa
+item guid perma: false
+item guid: http://www.bbc.co.uk/news/technology-27110660
+item pubdate: Tue, 22 Apr 2014 11:25:07 GMT
+item tnwidth: 66
+item thheight: 49
+item tnurl: http://news.bbcimg.co.uk/media/images/74369000/jpg/_74369490_74369312.jpg
+item tnwidth: 144
+item thheight: 81
+item tnurl: http://news.bbcimg.co.uk/media/images/74369000/jpg/_74369491_74369312.jpg
+
+item title: 'World's fastest' lift to be built
+item desc: Hitachi says it will install a lift capable of reaching speeds of 72km/h (45mph) into a skyscraper in Guangzhou, southern China.
+item link: http://www.bbc.co.uk/news/technology-27111923#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa
+item guid perma: false
+item guid: http://www.bbc.co.uk/news/technology-27111923
+item pubdate: Tue, 22 Apr 2014 12:50:46 GMT
+item tnwidth: 66
+item thheight: 49
+item tnurl: http://news.bbcimg.co.uk/media/images/74370000/jpg/_74370296_74368203.jpg
+item tnwidth: 144
+item thheight: 81
+item tnurl: http://news.bbcimg.co.uk/media/images/74370000/jpg/_74370297_74368203.jpg
+
+item title: Reddit revolt over censored posts
+item desc: Reddit downgrades the status of its technology section after it emerges that many popular terms had been banned from its headlines.
+item link: http://www.bbc.co.uk/news/technology-27100773#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa
+item guid perma: false
+item guid: http://www.bbc.co.uk/news/technology-27100773
+item pubdate: Mon, 21 Apr 2014 14:59:49 GMT
+item tnwidth: 66
+item thheight: 49
+item tnurl: http://news.bbcimg.co.uk/media/images/74353000/png/_74353865_rededi.png
+item tnwidth: 144
+item thheight: 81
+item tnurl: http://news.bbcimg.co.uk/media/images/74353000/png/_74353866_rededi.png
+
+item title: UK scares sports piracy site offline
+item desc: One of the biggest sports file-sharing sites closes down after a UK police force warns its operators that they could face jail.
+item link: http://www.bbc.co.uk/news/technology-27103527#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa
+item guid perma: false
+item guid: http://www.bbc.co.uk/news/technology-27103527
+item pubdate: Mon, 21 Apr 2014 14:51:52 GMT
+item tnwidth: 66
+item thheight: 49
+item tnurl: http://news.bbcimg.co.uk/media/images/74355000/jpg/_74355414_74353875.jpg
+item tnwidth: 144
+item thheight: 81
+item tnurl: http://news.bbcimg.co.uk/media/images/74355000/jpg/_74355415_74353875.jpg
+
+item title: Netflix reports rise in profits
+item desc: Internet streaming video service Netflix reports profits of $53m during the first quarter, and says it will soon increase subscription prices.
+item link: http://www.bbc.co.uk/news/business-27106460#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa
+item guid perma: false
+item guid: http://www.bbc.co.uk/news/business-27106460
+item pubdate: Mon, 21 Apr 2014 21:08:19 GMT
+item tnwidth: 66
+item thheight: 49
+item tnurl: http://news.bbcimg.co.uk/media/images/74360000/jpg/_74360727_464384005.jpg
+item tnwidth: 144
+item thheight: 81
+item tnurl: http://news.bbcimg.co.uk/media/images/74360000/jpg/_74360728_464384005.jpg
+
+item title: VIDEO: Aircraft factory's technology role
+item desc: The East Yorkshire aircraft factory which used to make Hawk trainer jets is now developing high technology projects.
+item link: http://www.bbc.co.uk/news/uk-england-humber-27117341#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa
+item guid perma: false
+item guid: http://www.bbc.co.uk/news/uk-england-humber-27117341
+item pubdate: Tue, 22 Apr 2014 16:25:57 GMT
+item tnwidth: 66
+item thheight: 49
+item tnurl: http://news.bbcimg.co.uk/media/images/74377000/jpg/_74377538_bae1.jpg
+item tnwidth: 144
+item thheight: 81
+item tnurl: http://news.bbcimg.co.uk/media/images/74377000/jpg/_74377539_bae1.jpg
+
+item title: Facebook boss wants women to act
+item desc: Facebook's highest-ranked woman says women need to take action to create a more equal world.
+item link: http://www.bbc.co.uk/news/business-27107946#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa
+item guid perma: false
+item guid: http://www.bbc.co.uk/news/business-27107946
+item pubdate: Tue, 22 Apr 2014 06:58:38 GMT
+item tnwidth: 66
+item thheight: 49
+item tnurl: http://news.bbcimg.co.uk/media/images/74363000/jpg/_74363553_74363430.jpg
+item tnwidth: 144
+item thheight: 81
+item tnurl: http://news.bbcimg.co.uk/media/images/74363000/jpg/_74363554_74363430.jpg
+
+item title: Whedon releases new film on demand
+item desc: Avengers director Joss Whedon surprises fans by releasing his latest film online on the same night as its US premiere.
+item link: http://www.bbc.co.uk/news/entertainment-arts-27102294#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa
+item guid perma: false
+item guid: http://www.bbc.co.uk/news/entertainment-arts-27102294
+item pubdate: Mon, 21 Apr 2014 11:24:18 GMT
+item tnwidth: 66
+item thheight: 49
+item tnurl: http://news.bbcimg.co.uk/media/images/74353000/jpg/_74353349_813ca2d8-9149-4f5f-97d7-07f2ccb2fb7f.jpg
+item tnwidth: 144
+item thheight: 81
+item tnurl: http://news.bbcimg.co.uk/media/images/74353000/jpg/_74353350_813ca2d8-9149-4f5f-97d7-07f2ccb2fb7f.jpg
+
+item title: SpaceX launches station cargo flight
+item desc: US company SpaceX launches its latest re-supply mission to the International Space Station, sending up a Dragon freighter to rendezvous with the orbiting platform on Sunday.
+item link: http://www.bbc.co.uk/news/science-environment-27027200#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa
+item guid perma: false
+item guid: http://www.bbc.co.uk/news/science-environment-27027200
+item pubdate: Fri, 18 Apr 2014 22:06:02 GMT
+item tnwidth: 66
+item thheight: 49
+item tnurl: http://news.bbcimg.co.uk/media/images/74327000/jpg/_74327602_launch.jpg
+item tnwidth: 144
+item thheight: 81
+item tnurl: http://news.bbcimg.co.uk/media/images/74327000/jpg/_74327603_launch.jpg
+
+item title: German media boss criticises Google
+item desc: In an open letter to Google's Eric Schmidt the boss of German publishing firm Axel Springer says it is afraid of the search giant.
+item link: http://www.bbc.co.uk/news/technology-27063372#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa
+item guid perma: false
+item guid: http://www.bbc.co.uk/news/technology-27063372
+item pubdate: Thu, 17 Apr 2014 13:20:24 GMT
+item tnwidth: 66
+item thheight: 49
+item tnurl: http://news.bbcimg.co.uk/media/images/74297000/jpg/_74297899_74297892.jpg
+item tnwidth: 144
+item thheight: 81
+item tnurl: http://news.bbcimg.co.uk/media/images/74297000/jpg/_74297900_74297892.jpg
+
+item title: Teachers angry at online insults
+item desc: Online social media is being misused to insult, intimidate and smear staff in schools, says a teachers' union.
+item link: http://www.bbc.co.uk/news/education-27094931#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa
+item guid perma: false
+item guid: http://www.bbc.co.uk/news/education-27094931
+item pubdate: Mon, 21 Apr 2014 15:30:34 GMT
+item tnwidth: 66
+item thheight: 49
+item tnurl: http://news.bbcimg.co.uk/media/images/74343000/jpg/_74343012_461971943.jpg
+item tnwidth: 144
+item thheight: 81
+item tnurl: http://news.bbcimg.co.uk/media/images/74343000/jpg/_74343013_461971943.jpg
+
+item title: HMRC 'plans to share personal data'
+item desc: Taxpayers' personal financial data could be shared with private firms and researchers, Revenue & Customs says, despite concerns over privacy and security.
+item link: http://www.bbc.co.uk/news/uk-27086401#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa
+item guid perma: false
+item guid: http://www.bbc.co.uk/news/uk-27086401
+item pubdate: Sat, 19 Apr 2014 07:50:05 GMT
+item tnwidth: 66
+item thheight: 49
+item tnurl: http://news.bbcimg.co.uk/media/images/74328000/jpg/_74328957_74328950.jpg
+item tnwidth: 144
+item thheight: 81
+item tnurl: http://news.bbcimg.co.uk/media/images/74329000/jpg/_74329149_74328950.jpg
+
+item title: Kim Dotcom wins back cars and cash
+item desc: Kim Dotcom, the multimillionaire founder of closed file-sharing site Megaupload, has won back cars, cash and property seized in a January 2012 raid.
+item link: http://www.bbc.co.uk/news/technology-27067102#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa
+item guid perma: false
+item guid: http://www.bbc.co.uk/news/technology-27067102
+item pubdate: Thu, 17 Apr 2014 12:11:17 GMT
+item tnwidth: 66
+item thheight: 49
+item tnurl: http://news.bbcimg.co.uk/media/images/74297000/jpg/_74297220_167513895.jpg
+item tnwidth: 144
+item thheight: 81
+item tnurl: http://news.bbcimg.co.uk/media/images/74297000/jpg/_74297221_167513895.jpg
+
+item title: BBC and Sky experience fault on iOS
+item desc: The BBC and Sky's video-on-demand apps simultaneously experience a fault on iPhones and iPads that prevents TV shows from streaming.
+item link: http://www.bbc.co.uk/news/technology-27062516#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa
+item guid perma: false
+item guid: http://www.bbc.co.uk/news/technology-27062516
+item pubdate: Mon, 21 Apr 2014 07:05:39 GMT
+item tnwidth: 66
+item thheight: 49
+item tnurl: http://news.bbcimg.co.uk/media/images/74294000/jpg/_74294398_bbc.jpg
+item tnwidth: 144
+item thheight: 81
+item tnurl: http://news.bbcimg.co.uk/media/images/74294000/jpg/_74294399_bbc.jpg
+
+item title: Cyborg glasses express fake emotions
+item desc: A Japanese researcher creates glasses that show computer-generated eyes that express emotions so that the wearer does not need to bother.
+item link: http://www.bbc.co.uk/news/technology-27052773#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa
+item guid perma: false
+item guid: http://www.bbc.co.uk/news/technology-27052773
+item pubdate: Wed, 16 Apr 2014 23:00:27 GMT
+item tnwidth: 66
+item thheight: 49
+item tnurl: http://news.bbcimg.co.uk/media/images/74285000/jpg/_74285219_hands.jpg
+item tnwidth: 144
+item thheight: 81
+item tnurl: http://news.bbcimg.co.uk/media/images/74285000/jpg/_74285220_hands.jpg
+
+item title: Graphene 'made with kitchen blender'
+item desc: Scientists have outlined how they managed to make the wonder material graphene using a kitchen blender.
+item link: http://www.bbc.co.uk/news/science-environment-27113732#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa
+item guid perma: false
+item guid: http://www.bbc.co.uk/news/science-environment-27113732
+item pubdate: Tue, 22 Apr 2014 13:03:27 GMT
+item tnwidth: 66
+item thheight: 49
+item tnurl: http://news.bbcimg.co.uk/media/images/74372000/jpg/_74372942_c0205666-graphene_structure%2C_artwork-spl.jpg
+item tnwidth: 144
+item thheight: 81
+item tnurl: http://news.bbcimg.co.uk/media/images/74372000/jpg/_74372943_c0205666-graphene_structure%2C_artwork-spl.jpg
+
+item title: VIDEO: Searching for metaphorical results
+item desc: How alternative search engines produce different results plus websites and apps reviewed.
+item link: http://www.bbc.co.uk/news/technology-27055928#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa
+item guid perma: false
+item guid: http://www.bbc.co.uk/news/technology-27055928
+item pubdate: Thu, 17 Apr 2014 16:22:23 GMT
+item tnwidth: 66
+item thheight: 49
+item tnurl: http://news.bbcimg.co.uk/media/images/74281000/jpg/_74281364_yossarianlives1024.jpg
+item tnwidth: 144
+item thheight: 81
+item tnurl: http://news.bbcimg.co.uk/media/images/74281000/jpg/_74281365_yossarianlives1024.jpg
+
+item title: VIDEO: Firm creates drone fitted with Taser
+item desc: Spencer Kelly meets the team behind a drone which can fire 80,000 volts of electricity through a wired dart.
+item link: http://www.bbc.co.uk/news/technology-26930644#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa
+item guid perma: false
+item guid: http://www.bbc.co.uk/news/technology-26930644
+item pubdate: Wed, 09 Apr 2014 07:06:57 GMT
+item tnwidth: 66
+item thheight: 49
+item tnurl: http://news.bbcimg.co.uk/media/images/74093000/jpg/_74093267_drone1024.jpg
+item tnwidth: 144
+item thheight: 81
+item tnurl: http://news.bbcimg.co.uk/media/images/74093000/jpg/_74093268_drone1024.jpg
+
+item title: VIDEO: Robot chefs take over restaurant
+item desc: A restaurant in China has started serving food that's been prepared by robots.
+item link: http://www.bbc.co.uk/news/world-asia-china-27107248#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa
+item guid perma: false
+item guid: http://www.bbc.co.uk/news/world-asia-china-27107248
+item pubdate: Tue, 22 Apr 2014 02:43:09 GMT
+item tnwidth: 66
+item thheight: 49
+item tnurl: http://news.bbcimg.co.uk/media/images/74362000/jpg/_74362014_74361942.jpg
+item tnwidth: 144
+item thheight: 81
+item tnurl: http://news.bbcimg.co.uk/media/images/74362000/jpg/_74362015_74361942.jpg
+
+item title: VIDEO: Autistic workers get chance to shine
+item desc: Autistic people have historically struggled to find and keep jobs, but with as many as one in 68 American children being diagnosed with an autism spectrum disorder. The Specialists Guild, a non-profit group in San Francisco, is working to prepare people with autism for jobs in the technology industry.
+item link: http://www.bbc.co.uk/news/world-us-canada-27104424#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa
+item guid perma: false
+item guid: http://www.bbc.co.uk/news/world-us-canada-27104424
+item pubdate: Tue, 22 Apr 2014 00:24:27 GMT
+item tnwidth: 66
+item thheight: 49
+item tnurl: http://news.bbcimg.co.uk/media/images/74373000/jpg/_74373812_photo-45.jpg
+item tnwidth: 144
+item thheight: 81
+item tnurl: http://news.bbcimg.co.uk/media/images/74373000/jpg/_74373813_photo-45.jpg
+
+item title: VIDEO: Is this India's first social media election?
+item desc: Indian elections are under way, and most parties are using the internet to try and woo voters. Is this India's first social media election?
+item link: http://www.bbc.co.uk/news/world-asia-india-27071776#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa
+item guid perma: false
+item guid: http://www.bbc.co.uk/news/world-asia-india-27071776
+item pubdate: Sun, 20 Apr 2014 21:57:44 GMT
+item tnwidth: 66
+item thheight: 49
+item tnurl: http://news.bbcimg.co.uk/media/images/74312000/jpg/_74312870_74312838.jpg
+item tnwidth: 144
+item thheight: 81
+item tnurl: http://news.bbcimg.co.uk/media/images/74312000/jpg/_74312923_74312838.jpg
+
+item title: VIDEO: Facebook targets small business
+item desc: Chief operating officer of Facebook Sheryl Sandberg has been speaking to business executives from the UK and Ireland in Dublin.
+item link: http://www.bbc.co.uk/news/business-27108483#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa
+item guid perma: false
+item guid: http://www.bbc.co.uk/news/business-27108483
+item pubdate: Tue, 22 Apr 2014 08:55:32 GMT
+item tnwidth: 66
+item thheight: 49
+item tnurl: http://news.bbcimg.co.uk/media/images/74364000/jpg/_74364346_74364339.jpg
+item tnwidth: 144
+item thheight: 81
+item tnurl: http://news.bbcimg.co.uk/media/images/74364000/jpg/_74364347_74364339.jpg
+
+item title: VIDEO: Turning the world into an orchestra
+item desc: Spencer Kelly tests out Mogees- a device linked to your smartphone which turns objects into musical instruments.
+item link: http://www.bbc.co.uk/news/technology-27066962#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa
+item guid perma: false
+item guid: http://www.bbc.co.uk/news/technology-27066962
+item pubdate: Thu, 17 Apr 2014 15:23:50 GMT
+item tnwidth: 66
+item thheight: 49
+item tnurl: http://news.bbcimg.co.uk/media/images/74301000/jpg/_74301608_mogees2_1024.jpg
+item tnwidth: 144
+item thheight: 81
+item tnurl: http://news.bbcimg.co.uk/media/images/74301000/jpg/_74301609_mogees2_1024.jpg
+
+item title: VIDEO: Netflix dominates streaming market
+item desc: Netflix now accounts for more than half the video streamed over the internet.
+item link: http://www.bbc.co.uk/news/business-27102420#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa
+item guid perma: false
+item guid: http://www.bbc.co.uk/news/business-27102420
+item pubdate: Mon, 21 Apr 2014 10:55:31 GMT
+item tnwidth: 66
+item thheight: 49
+item tnurl: http://news.bbcimg.co.uk/media/images/74353000/jpg/_74353100_74353092.jpg
+item tnwidth: 144
+item thheight: 81
+item tnurl: http://news.bbcimg.co.uk/media/images/74353000/jpg/_74353101_74353092.jpg
+
+item title: VIDEO: The quest to perfect digital pianos
+item desc: Click meets Joe Ierardi, a man who is trying to create the most realistic sounding piano synthesiser.
+item link: http://www.bbc.co.uk/news/technology-27062526#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa
+item guid perma: false
+item guid: http://www.bbc.co.uk/news/technology-27062526
+item pubdate: Thu, 17 Apr 2014 14:49:36 GMT
+item tnwidth: 66
+item thheight: 49
+item tnurl: http://news.bbcimg.co.uk/media/images/74293000/jpg/_74293027_piano1024.jpg
+item tnwidth: 144
+item thheight: 81
+item tnurl: http://news.bbcimg.co.uk/media/images/74293000/jpg/_74293028_piano1024.jpg
+
+item title: VIDEO: Cyborg glasses mimic eye gestures
+item desc: A Japanese researcher shows off glasses that display computer-generated eyes, which express emotions to save their wearer the effort.
+item link: http://www.bbc.co.uk/news/technology-27052604#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa
+item guid perma: false
+item guid: http://www.bbc.co.uk/news/technology-27052604
+item pubdate: Wed, 16 Apr 2014 22:58:26 GMT
+item tnwidth: 66
+item thheight: 49
+item tnurl: http://news.bbcimg.co.uk/media/images/74285000/jpg/_74285231_goggles.jpg
+item tnwidth: 144
+item thheight: 81
+item tnurl: http://news.bbcimg.co.uk/media/images/74285000/jpg/_74285232_goggles.jpg
+
+item title: Back to the future with Isaac Asimov
+item desc: What 2014 looked like 50 years ago
+item link: http://www.bbc.co.uk/news/technology-27069716#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa
+item guid perma: false
+item guid: http://www.bbc.co.uk/news/technology-27069716
+item pubdate: Mon, 21 Apr 2014 23:13:48 GMT
+item tnwidth: 66
+item thheight: 49
+item tnurl: http://news.bbcimg.co.uk/media/images/74360000/jpg/_74360228_tv020648385.jpg
+item tnwidth: 144
+item thheight: 81
+item tnurl: http://news.bbcimg.co.uk/media/images/74360000/jpg/_74360229_tv020648385.jpg
+
+item title: 10 strange things on Taobao
+item desc: Ten strange things found on China's online marketplace
+item link: http://www.bbc.co.uk/news/world-asia-26185600#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa
+item guid perma: false
+item guid: http://www.bbc.co.uk/news/world-asia-26185600
+item pubdate: Tue, 22 Apr 2014 00:18:24 GMT
+item tnwidth: 66
+item thheight: 49
+item tnurl: http://news.bbcimg.co.uk/media/images/74254000/jpg/_74254531_kissing_getty.jpg
+item tnwidth: 144
+item thheight: 81
+item tnurl: http://news.bbcimg.co.uk/media/images/74254000/jpg/_74254532_kissing_getty.jpg
+
+item title: Big risk for small firms losing data
+item desc: Guarding against bugs, hackers and natural disasters
+item link: http://www.bbc.co.uk/news/business-27052250#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa
+item guid perma: false
+item guid: http://www.bbc.co.uk/news/business-27052250
+item pubdate: Mon, 21 Apr 2014 23:24:49 GMT
+item tnwidth: 66
+item thheight: 49
+item tnurl: http://news.bbcimg.co.uk/media/images/74289000/jpg/_74289090_187404425.jpg
+item tnwidth: 144
+item thheight: 81
+item tnurl: http://news.bbcimg.co.uk/media/images/74289000/jpg/_74289091_187404425.jpg
+
+item title: Netflix battles for big budget TV
+item desc: The battle for exclusive online TV shows
+item link: http://www.bbc.co.uk/news/technology-27037504#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa
+item guid perma: false
+item guid: http://www.bbc.co.uk/news/technology-27037504
+item pubdate: Sun, 20 Apr 2014 23:23:25 GMT
+item tnwidth: 66
+item thheight: 49
+item tnurl: http://news.bbcimg.co.uk/media/images/74314000/jpg/_74314760_space.jpg
+item tnwidth: 144
+item thheight: 81
+item tnurl: http://news.bbcimg.co.uk/media/images/74314000/jpg/_74314761_space.jpg
+
+item title: In pictures: Beijing Auto Show
+item desc: The world's top carmakers at the Beijing Auto Show
+item link: http://www.bbc.co.uk/news/business-27100048#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa
+item guid perma: false
+item guid: http://www.bbc.co.uk/news/business-27100048
+item pubdate: Mon, 21 Apr 2014 07:36:37 GMT
+item tnwidth: 66
+item thheight: 49
+item tnurl: http://news.bbcimg.co.uk/media/images/74350000/jpg/_74350833_485598037.jpg
+item tnwidth: 144
+item thheight: 81
+item tnurl: http://news.bbcimg.co.uk/media/images/74350000/jpg/_74350834_485598037.jpg
+
+item title: Where Wall Street met Silicon Valley
+item desc: Two cultures collide at the online retail giant
+item link: http://www.bbc.co.uk/news/business-27055407#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa
+item guid perma: false
+item guid: http://www.bbc.co.uk/news/business-27055407
+item pubdate: Sun, 20 Apr 2014 23:12:24 GMT
+item tnwidth: 66
+item thheight: 49
+item tnurl: http://news.bbcimg.co.uk/media/images/74282000/jpg/_74282776_amazonlogoafp.jpg
+item tnwidth: 144
+item thheight: 81
+item tnurl: http://news.bbcimg.co.uk/media/images/74282000/jpg/_74282797_amazonlogoafp.jpg
+
+item title: Hacking the instrument of the future
+item desc: Sleep-deprived coders enjoy an epic adventure
+item link: http://www.bbc.co.uk/news/technology-27067106#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa
+item guid perma: false
+item guid: http://www.bbc.co.uk/news/technology-27067106
+item pubdate: Sat, 19 Apr 2014 23:22:37 GMT
+item tnwidth: 66
+item thheight: 49
+item tnurl: http://news.bbcimg.co.uk/media/images/74314000/jpg/_74314773_74297229.jpg
+item tnwidth: 144
+item thheight: 81
+item tnurl: http://news.bbcimg.co.uk/media/images/74314000/jpg/_74314774_74297229.jpg
+
+item title: Selling globally is child's play
+item desc: The tech making e-commerce easier for small firms
+item link: http://www.bbc.co.uk/news/business-26986083#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa
+item guid perma: false
+item guid: http://www.bbc.co.uk/news/business-26986083
+item pubdate: Thu, 17 Apr 2014 23:09:09 GMT
+item tnwidth: 66
+item thheight: 49
+item tnurl: http://news.bbcimg.co.uk/media/images/74272000/png/_74272265_image.png
+item tnwidth: 144
+item thheight: 81
+item tnurl: http://news.bbcimg.co.uk/media/images/74272000/png/_74272266_image.png
+
+title: Real-time/embedded systems development
+code: RESD
+summary: Designing and developing reliable real-time software typically within embedded systems.
+desc: Embedded systems provide a dedicated function within a more extensive mechanical or electronic system with real-time, safety, security, and reliability constraints. Typically, it involves interfacing with hardware, sensors, and actuators for monitoring and control in industrial, automotive, aerospace, medical or robotic equipment, including IoT (Internet of Things) devices and intelligent systems.
+desc: These systems typically perform critical functions and have demanding requirements including — but not limited to — integrity, reliability, safety, security or power consumption.
+desc: Activities may include — but are not limited to:
+areas: defining non-functional system requirements such as performance, reliability, safety, and security, including requirements for power, cost, physical space or response time
+areas: building in fail-safe/secure characteristics for graceful degradation
+areas: using specialist techniques to define systems and to assure essential attributes are achieved
+areas: applying comprehensive verification, validation and testing methods and techniques
+areas: using specialised tools such as in-circuit emulators, logic analysers and digital oscilloscopes.
+levels: 2
+levels: 3
+levels: 4
+levels: 5
+levels: 6
+desc: This skill is not typically observed or practiced at this level of responsibility and accountability.
+compstmt: Designs, builds and tests simple real-time/embedded components as part of an overall larger systems design.
+compstmt: Uses appropriate programming languages to drive simple sensors and actuators.
+compstmt: Learns to use specialised tools such as in-circuit emulators, logic analysers and digital oscilloscopes.
+compstmt: Designs, builds and integrates medium-complexity real-time/embedded components as part of an overall larger systems design.
+compstmt: Follows agreed standards and uses specialist tools such as in-circuit emulators and logic analysers.
+compstmt: Drives specialist hardware, typically sensors and actuators, and optimises component code for performance.
+compstmt: Applies a range of approaches to the verification and testing of real-time components.
+compstmt: Designs, builds and integrates complex real-time/embedded components and sub-systems.
+compstmt: Designs physical layouts that reflect the connection between system components to test and optimise performance.
+compstmt: Builds system prototypes and simulations to aid development and enable debugging, testing and troubleshooting of embedded software.
+compstmt: Applies a range of approaches to the validation, verification and testing of real-time components and sub-systems. Is fully familiar with a range of specialist tools.
+compstmt: Designs and develops real-time/embedded architectures and systems to meet agreed system requirements.
+compstmt: Plans and manages the development of complex real-time/embedded systems and selects the approaches and techniques to be used.
+compstmt: Analyses design options and trade-offs between hardware and software, makes recommendations and assesses and manages associated risks. Ensures that effective validation, verification and testing is undertaken throughout development.
+compstmt: Oversees the integration of multiple sub-systems into the overall system.
+compstmt: Provides overall direction and leadership in the development of real-time/embedded systems.
+compstmt: Develops organisational policies, standards and guidelines for real-time/embedded systems architectures and designs.
+compstmt: Plans and leads strategic, large and complex real-time/embedded system developments.  Identifies opportunities to exploit new technologies and improve existing technologies and practices.
+compstmt: Drives adherence to technical strategies, systems architectures and the implementation of risk-based verification, validation and testing. Develops effective implementation and procurement strategies.
+desc: This skill is not typically observed or practiced at this level of responsibility and accountability.
+related: Programming/software development
+related: Software design
+related: Requirements definition and management
+related: Systems design
+related: Systems integration and build
+related: Testing

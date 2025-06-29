@@ -1,0 +1,13 @@
+#! /usr/bin/env bash
+OUT_NAME=test_all.out
+CAP_NAME=test_all.cap
+
+./ptag.py > ${OUT_NAME}
+./cars.py >> ${OUT_NAME}
+./html.py >> ${OUT_NAME}
+./muppets.py >> ${OUT_NAME}
+./news.py >> ${OUT_NAME}
+./sfia.py >> ${OUT_NAME}
+diff ${CAP_NAME} ${OUT_NAME}
+# if the diff passes, we don't need the output file
+rm ${OUT_NAME}

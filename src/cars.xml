@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Parking>
+  <Carpark>
+    <SystemCodeNumber>210</SystemCodeNumber>
+    <Capacity>472</Capacity>
+    <DisabledCapacity>0</DisabledCapacity>
+    <ShortDescription>Wilkinson Street Park and Ride</ShortDescription>
+    <Northing>341968.00</Northing>
+    <Easting>455364.00</Easting>
+    <State>Spaces</State>
+    <Fault/>
+    <Occupancy>356</Occupancy>
+    <OccupancyPercentage>75</OccupancyPercentage>
+    <FillRate>0</FillRate>
+    <ExitRate>12</ExitRate>
+    <QueueTime>0</QueueTime>
+    <LastUpdated>2014-07-28 12:34:05.0</LastUpdated>
+  </Carpark>
+  <Carpark>
+    <SystemCodeNumber>211</SystemCodeNumber>
+    <Capacity>119</Capacity>
+    <DisabledCapacity>0</DisabledCapacity>
+    <ShortDescription>Moor Bridge Park and Ride</ShortDescription>
+    <Northing>346635.00</Northing>
+    <Easting>454598.00</Easting>
+    <State>Spaces</State>
+    <Fault/>
+    <Occupancy>92</Occupancy>
+    <OccupancyPercentage>77</OccupancyPercentage>
+    <FillRate>0</FillRate>
+      <ExitRate>0</ExitRate>
+    <QueueTime>0</QueueTime>
+    <LastUpdated>2014-07-28 12:34:05.0</LastUpdated>
+  </Carpark>
+  <Carpark>
+    <SystemCodeNumber>212</SystemCodeNumber>
+    <Capacity>476</Capacity>
+    <DisabledCapacity>0</DisabledCapacity>
+    <ShortDescription>Hucknall Park and Ride</ShortDescription>
+    <Northing>349208.00</Northing>
+    <Easting>454031.00</Easting>
+    <State>Almost Full</State>
+    <Fault/>
+    <Occupancy>420</Occupancy>
+    <OccupancyPercentage>88</OccupancyPercentage>
+    <FillRate>20</FillRate>
+    <ExitRate>0</ExitRate>
+    <QueueTime>0</QueueTime>
+    <LastUpdated>2014-07-28 12:34:05.0</LastUpdated>
+  </Carpark>
+  <Carpark>
+    <SystemCodeNumber>911</SystemCodeNumber>
+    <Capacity>250</Capacity>
+    <DisabledCapacity>0</DisabledCapacity>
+    <ShortDescription>Huntingdon Street</ShortDescription>
+    <Northing>340470.00</Northing>
+    <Easting>457583.00</Easting>
+    <State>Spaces</State>
+    <Fault/>
+    <Occupancy>138</Occupancy>
+    <OccupancyPercentage>55</OccupancyPercentage>
+      <FillRate>0</FillRate>
+    <ExitRate>0</ExitRate>
+    <QueueTime>0</QueueTime>
+    <LastUpdated>2014-07-28 12:34:05.0</LastUpdated>
+  </Carpark>
+  <Carpark>
+    <SystemCodeNumber>Am2-1</SystemCodeNumber>
+    <Capacity>430</Capacity>
+    <DisabledCapacity>0</DisabledCapacity>
+    <ShortDescription>Trinity Square</ShortDescription>
+    <Northing>340304.00</Northing>
+    <Easting>457222.00</Easting>
+    <State>Spaces</State>
+    <Fault/>
+    <Occupancy>327</Occupancy>
+    <OccupancyPercentage>76</OccupancyPercentage>
+    <FillRate>20</FillRate>
+    <ExitRate>0</ExitRate>
+    <QueueTime>0</QueueTime>
+    <LastUpdated>2014-07-28 12:34:05.0</LastUpdated>
+  </Carpark>
+  <Carpark>
+    <SystemCodeNumber>Am3-2</SystemCodeNumber>
+    <Capacity>526</Capacity>
+    <DisabledCapacity>0</DisabledCapacity>
+    <ShortDescription>Fletcher Gate</ShortDescription>
+    <Northing>339775.00</Northing>
+    <Easting>457485.00</Easting>
+    <State>Spaces</State>
+    <Fault/>
+    <Occupancy>313</Occupancy>
+      <OccupancyPercentage>59</OccupancyPercentage>
+    <FillRate>24</FillRate>
+    <ExitRate>0</ExitRate>
+    <QueueTime>0</QueueTime>
+    <LastUpdated>2014-07-28 12:34:05.0</LastUpdated>
+  </Carpark>
+  <Carpark>
+    <SystemCodeNumber>BRDMSH</SystemCodeNumber>
+    <Capacity>1136</Capacity>
+    <DisabledCapacity>0</DisabledCapacity>
+    <ShortDescription>Broadmarsh</ShortDescription>
+    <Northing>339484.00</Northing>
+    <Easting>457417.00</Easting>
+    <State>Spaces</State>
+    <Fault/>
+    <Occupancy>1020</Occupancy>
+    <OccupancyPercentage>89</OccupancyPercentage>
+    <FillRate>16</FillRate>
+    <ExitRate>0</ExitRate>
+    <QueueTime>0</QueueTime>
+    <LastUpdated>2014-07-28 12:34:05.0</LastUpdated>
+  </Carpark>
+  <Carpark>
+    <SystemCodeNumber>C11001</SystemCodeNumber>
+    <Capacity>412</Capacity>
+    <DisabledCapacity>0</DisabledCapacity>
+    <ShortDescription>Arndale</ShortDescription>
+    <Northing>339408.00</Northing>
+    <Easting>457173.00</Easting>
+    <State>Spaces</State>
+      <Fault/>
+    <Occupancy>249</Occupancy>
+    <OccupancyPercentage>60</OccupancyPercentage>
+    <FillRate>4</FillRate>
+    <ExitRate>0</ExitRate>
+    <QueueTime>0</QueueTime>
+    <LastUpdated>2014-07-28 12:34:05.0</LastUpdated>
+  </Carpark>
+  <Carpark>
+    <SystemCodeNumber>C11002</SystemCodeNumber>
+    <Capacity>427</Capacity>
+    <DisabledCapacity>0</DisabledCapacity>
+    <ShortDescription>Mount Street</ShortDescription>
+    <Northing>339867.00</Northing>
+    <Easting>456885.00</Easting>
+    <State>Spaces</State>
+    <Fault/>
+    <Occupancy>179</Occupancy>
+    <OccupancyPercentage>41</OccupancyPercentage>
+    <FillRate>0</FillRate>
+    <ExitRate>0</ExitRate>
+    <QueueTime>0</QueueTime>
+    <LastUpdated>2014-07-28 12:34:05.0</LastUpdated>
+  </Carpark>
+  <Carpark>
+    <SystemCodeNumber>C11003</SystemCodeNumber>
+    <Capacity>405</Capacity>
+    <DisabledCapacity>0</DisabledCapacity>
+    <ShortDescription>Queensbridge Road</ShortDescription>
+    <Northing>339089.00</Northing>
+    <Easting>457354.00</Easting>
+      <State>Spaces</State>
+    <Fault/>
+    <Occupancy>0</Occupancy>
+    <OccupancyPercentage>0</OccupancyPercentage>
+    <FillRate>0</FillRate>
+    <ExitRate>0</ExitRate>
+    <QueueTime>0</QueueTime>
+    <LastUpdated>2013-08-20 14:53:00.0</LastUpdated>
+  </Carpark>
+  <Carpark>
+    <SystemCodeNumber>C11004</SystemCodeNumber>
+    <Capacity>475</Capacity>
+    <DisabledCapacity>0</DisabledCapacity>
+    <ShortDescription>St. James' Street</ShortDescription>
+    <Northing>339705.00</Northing>
+    <Easting>456938.00</Easting>
+    <State>Spaces</State>
+    <Fault/>
+    <Occupancy>253</Occupancy>
+    <OccupancyPercentage>53</OccupancyPercentage>
+    <FillRate>20</FillRate>
+    <ExitRate>0</ExitRate>
+    <QueueTime>0</QueueTime>
+    <LastUpdated>2014-07-28 12:34:05.0</LastUpdated>
+  </Carpark>
+  <Carpark>
+    <SystemCodeNumber>C11005</SystemCodeNumber>
+    <Capacity>289</Capacity>
+    <DisabledCapacity>0</DisabledCapacity>
+    <ShortDescription>Stoney Street</ShortDescription>
+    <Northing>339788.00</Northing>
+      <Easting>457654.00</Easting>
+    <State>Almost Full</State>
+    <Fault/>
+    <Occupancy>248</Occupancy>
+    <OccupancyPercentage>85</OccupancyPercentage>
+    <FillRate>4</FillRate>
+    <ExitRate>0</ExitRate>
+    <QueueTime>0</QueueTime>
+    <LastUpdated>2014-07-28 12:34:05.0</LastUpdated>
+  </Carpark>
+  <Carpark>
+    <SystemCodeNumber>C11006</SystemCodeNumber>
+    <Capacity>512</Capacity>
+    <DisabledCapacity>0</DisabledCapacity>
+    <ShortDescription>Newark: St. Mark's Place</ShortDescription>
+    <Northing>0.00</Northing>
+    <Easting>0.00</Easting>
+    <State>Spaces</State>
+    <Fault/>
+    <Occupancy>170</Occupancy>
+    <OccupancyPercentage>33</OccupancyPercentage>
+    <FillRate>0</FillRate>
+    <ExitRate>0</ExitRate>
+    <QueueTime>0</QueueTime>
+    <LastUpdated>2014-07-28 12:34:05.0</LastUpdated>
+  </Carpark>
+  <Carpark>
+    <SystemCodeNumber>C12002</SystemCodeNumber>
+    <Capacity>77</Capacity>
+    <DisabledCapacity>0</DisabledCapacity>
+    <ShortDescription>Mount St Lower</ShortDescription>
+      <Northing>0.00</Northing>
+    <Easting>0.00</Easting>
+    <State>Almost Full</State>
+    <Fault/>
+    <Occupancy>65</Occupancy>
+    <OccupancyPercentage>84</OccupancyPercentage>
+    <FillRate>0</FillRate>
+    <ExitRate>0</ExitRate>
+    <QueueTime>0</QueueTime>
+    <LastUpdated>2014-07-28 12:34:05.0</LastUpdated>
+  </Carpark>
+  <Carpark>
+    <SystemCodeNumber>C18418</SystemCodeNumber>
+    <Capacity>998</Capacity>
+    <DisabledCapacity>0</DisabledCapacity>
+    <ShortDescription><![CDATA[QUEENS DR P&R]]></ShortDescription>
+    <Northing>376885.00</Northing>
+    <Easting>478373.00</Easting>
+    <State>Faulty</State>
+    <Fault/>
+    <Occupancy>0</Occupancy>
+    <OccupancyPercentage>0</OccupancyPercentage>
+    <FillRate>0</FillRate>
+    <ExitRate>0</ExitRate>
+    <QueueTime>0</QueueTime>
+    <LastUpdated>2012-10-18 09:16:34.0</LastUpdated>
+  </Carpark>
+  <Carpark>
+    <SystemCodeNumber>CPM_22</SystemCodeNumber>
+    <Capacity>949</Capacity>
+    <DisabledCapacity>0</DisabledCapacity>
+      <ShortDescription>Nottingham Station</ShortDescription>
+    <Northing>339121.00</Northing>
+    <Easting>457546.00</Easting>
+    <State>Spaces</State>
+    <Fault/>
+    <Occupancy>0</Occupancy>
+    <OccupancyPercentage>0</OccupancyPercentage>
+    <FillRate>0</FillRate>
+    <ExitRate>0</ExitRate>
+    <QueueTime>0</QueueTime>
+    <LastUpdated>2014-07-28 12:34:05.0</LastUpdated>
+  </Carpark>
+  <Carpark>
+    <SystemCodeNumber>FRSTPR</SystemCodeNumber>
+    <Capacity>980</Capacity>
+    <DisabledCapacity>0</DisabledCapacity>
+    <ShortDescription>Forest Park and Ride</ShortDescription>
+    <Northing>341296.00</Northing>
+    <Easting>456156.00</Easting>
+    <State>Faulty</State>
+    <Fault>Detector fault(s).</Fault>
+    <Occupancy>687</Occupancy>
+    <OccupancyPercentage>70</OccupancyPercentage>
+    <FillRate>176</FillRate>
+    <ExitRate>0</ExitRate>
+    <QueueTime>0</QueueTime>
+    <LastUpdated>2014-07-28 12:34:05.0</LastUpdated>
+  </Carpark>
+  <Carpark>
+    <SystemCodeNumber>PHNXPR</SystemCodeNumber>
+      <Capacity>659</Capacity>
+    <DisabledCapacity>0</DisabledCapacity>
+    <ShortDescription>Phoenix Park and Ride</ShortDescription>
+    <Northing>343774.00</Northing>
+    <Easting>453311.00</Easting>
+    <State>Spaces</State>
+    <Fault/>
+    <Occupancy>496</Occupancy>
+    <OccupancyPercentage>75</OccupancyPercentage>
+    <FillRate>44</FillRate>
+    <ExitRate>0</ExitRate>
+    <QueueTime>0</QueueTime>
+    <LastUpdated>2014-07-28 12:34:05.0</LastUpdated>
+  </Carpark>
+  <Carpark>
+    <SystemCodeNumber>PRLMNT</SystemCodeNumber>
+    <Capacity>221</Capacity>
+    <DisabledCapacity>0</DisabledCapacity>
+    <ShortDescription>Upper Parliament Street</ShortDescription>
+    <Northing>340048.00</Northing>
+    <Easting>457047.00</Easting>
+    <State>Spaces</State>
+    <Fault/>
+    <Occupancy>163</Occupancy>
+    <OccupancyPercentage>73</OccupancyPercentage>
+    <FillRate>12</FillRate>
+    <ExitRate>0</ExitRate>
+    <QueueTime>0</QueueTime>
+    <LastUpdated>2014-07-28 12:34:05.0</LastUpdated></Carpark>
+  <Carpark>
+    <SystemCodeNumber>QNSPR</SystemCodeNumber>
+    <Capacity>1000</Capacity>
+    <DisabledCapacity>0</DisabledCapacity>
+    <ShortDescription>Queens Drive Park and Ride</ShortDescription>
+    <Northing>337308.00</Northing>
+    <Easting>456353.00</Easting>
+    <State>Spaces</State>
+    <Fault/>
+    <Occupancy>668</Occupancy>
+    <OccupancyPercentage>66</OccupancyPercentage>
+    <FillRate>0</FillRate>
+    <ExitRate>84</ExitRate>
+    <QueueTime>0</QueueTime>
+    <LastUpdated>2014-07-28 12:34:05.0</LastUpdated>
+  </Carpark>
+  <Carpark>
+    <SystemCodeNumber>RYLCT</SystemCodeNumber>
+    <Capacity>629</Capacity>
+    <DisabledCapacity>0</DisabledCapacity>
+    <ShortDescription>Wollaton Street</ShortDescription>
+    <Northing>340147.00</Northing>
+    <Easting>456879.00</Easting>
+    <State>Spaces</State>
+    <Fault>Communication Error</Fault>
+    <Occupancy>60</Occupancy>
+    <OccupancyPercentage>9</OccupancyPercentage>
+    <FillRate>0</FillRate>
+    <ExitRate>0</ExitRate>
+      <QueueTime>0</QueueTime>
+    <LastUpdated>2014-07-28 12:34:05.0</LastUpdated>
+  </Carpark>
+  <Carpark>
+    <SystemCodeNumber>SB1-1</SystemCodeNumber>
+    <Capacity>439</Capacity>
+    <DisabledCapacity>0</DisabledCapacity>
+    <ShortDescription>Talbot Street</ShortDescription>
+    <Northing>340232.00</Northing>
+    <Easting>456865.00</Easting>
+    <State>Spaces</State>
+    <Fault>Communication Error</Fault>
+    <Occupancy>123</Occupancy>
+    <OccupancyPercentage>28</OccupancyPercentage>
+    <FillRate>8</FillRate>
+    <ExitRate>0</ExitRate>
+    <QueueTime>0</QueueTime>
+    <LastUpdated>2014-07-28 12:34:05.0</LastUpdated>
+  </Carpark>
+  <Carpark>
+    <SystemCodeNumber>TLBTST</SystemCodeNumber>
+    <Capacity>444</Capacity>
+    <DisabledCapacity>0</DisabledCapacity>
+    <ShortDescription>Talbot Street OLD</ShortDescription>
+    <Northing>0.00</Northing>
+    <Easting>0.00</Easting>
+    <State>Spaces</State>
+    <Fault/>
+    <Occupancy>0</Occupancy>
+    <OccupancyPercentage>0</OccupancyPercentage>
+      <FillRate>0</FillRate>
+    <ExitRate>0</ExitRate>
+    <QueueTime>0</QueueTime>
+    <LastUpdated>2013-08-20 15:10:15.0</LastUpdated>
+  </Carpark>
+  <Carpark>
+    <SystemCodeNumber>WPS$1230</SystemCodeNumber>
+    <Capacity>1606</Capacity>
+    <DisabledCapacity>0</DisabledCapacity>
+    <ShortDescription>Victoria Centre South</ShortDescription>
+    <Northing>340218.00</Northing>
+    <Easting>457468.00</Easting>
+    <State>Spaces</State>
+    <Fault/>
+    <Occupancy>916</Occupancy>
+    <OccupancyPercentage>57</OccupancyPercentage>
+    <FillRate>96</FillRate>
+    <ExitRate>0</ExitRate>
+    <QueueTime>0</QueueTime>
+    <LastUpdated>2014-07-28 12:34:05.0</LastUpdated>
+  </Carpark>
+  <Carpark>
+    <SystemCodeNumber>WPS$1231</SystemCodeNumber>
+    <Capacity>1011</Capacity>
+    <DisabledCapacity>0</DisabledCapacity>
+    <ShortDescription>Victoria Centre North</ShortDescription>
+    <Northing>340508.00</Northing>
+    <Easting>457413.00</Easting>
+    <State>Spaces</State>
+    <Fault/>
+    <Occupancy>462</Occupancy>
+      <OccupancyPercentage>45</OccupancyPercentage>
+    <FillRate>0</FillRate>
+    <ExitRate>552</ExitRate>
+    <QueueTime>0</QueueTime>
+    <LastUpdated>2014-07-28 12:34:05.0</LastUpdated>
+  </Carpark>
+</Parking>
